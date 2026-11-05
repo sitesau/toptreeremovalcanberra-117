@@ -1,0 +1,22 @@
+{
+  "wheel_id": 724,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-117",
+  "project": "tree-removal-canberra-how-to-choose-0fb95f1c1ec4b770e7b2cec12bf",
+  "parent_t1_ref": "toptreeremovalcanberra-158",
+  "node_role": "feeder",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal canberra how to choose",
+  "intended_url": "https://aumedia.neocities.org/tree-removal-canberra-how-to-choose-0fb95f1c1ec4b770e7b2cec12bf/",
+  "tier": "T2",
+  "writeback_nonce": "dba0d0123250ebea",
+  "links": [
+    {
+      "target_url": "http://tree-removal-canberra-cost-guide-ca242411c2a3a60345ec8ba95e31aa.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "tree removal canberra cost guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
